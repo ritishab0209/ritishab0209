@@ -34,14 +34,18 @@
 ---
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritishab0209&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritishab0209&theme=dark" alt="GitHub Streak Stats" width="48%">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritishab0209&show_icons=true&locale=en&layout=compact&theme=dark" alt="ritishab0209" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritishab0209&show_icons=true&theme=dark&layout=compact" alt="Most Used Languages" width="48%">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ritishab0209&show_icons=true&locale=en&theme=dark" alt="ritishab0209" />
 </p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ritishab0209&theme=dark" alt="ritishab0209" />
+</p>
+
 
 ---
 
