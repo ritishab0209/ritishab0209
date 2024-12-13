@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/ritisha-bhattacharjee-17b888282" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://tryhackme.com/p/your-username" target="_blank">
+  <a href="https://tryhackme.com/p/ritisha" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
 </p>
