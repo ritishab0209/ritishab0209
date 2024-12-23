@@ -16,6 +16,10 @@
   <a href="https://tryhackme.com/p/ritisha" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
   </a>
+  <a href="https://www.codechef.com/users/ritishab0209" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef">
+</a>
+
 </p>
 
 
