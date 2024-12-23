@@ -57,10 +57,8 @@
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ritishab0209&theme=onedark&margin-w=15" alt="GitHub Trophies">
-</p>
+![Holopin Badges](https://holopin.me/ritishab0209)
+
 
 ---
 
