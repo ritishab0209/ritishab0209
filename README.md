@@ -40,7 +40,7 @@
 
 </p>
 
-- ⚒️ **Security Tools:**
+## ⚒️ **Security Tools:**
 
   ![KaliLinux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
   ![BurpSuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
