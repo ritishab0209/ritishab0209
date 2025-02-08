@@ -49,14 +49,7 @@
 
 ---
 
-## 📊 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ritishab0209&show_icons=true&locale=en&layout=compact&theme=dark" alt="ritishab0209" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ritishab0209&show_icons=true&locale=en&theme=dark" alt="ritishab0209" />
-</p>
 
 
 
