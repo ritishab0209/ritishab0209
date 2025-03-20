@@ -19,7 +19,9 @@
   <a href="https://app.hackthebox.com/users/Gl1tchHuntress" target="_blank">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hack-the-box&logoColor=9FEF00" alt="Hack The Box">
 </a>
-
+<a href="https://play.picoctf.org/users/ritisha" target="_blank">
+    <img src="https://img.shields.io/badge/PicoCTF-0DCAF0?style=for-the-badge&logo=picoctf&logoColor=white" alt="PicoCTF">
+</a>
 
 </p>
 
