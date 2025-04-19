@@ -4,7 +4,7 @@
 
 ## 📝 About Me:
 - 🌱 I’m currently learning **Cyber Security**.
-- 🛠️ I’m working on enhancing my **Web Development** skills.
+
 
 ---
 
